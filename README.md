@@ -104,7 +104,7 @@ This project was developed by a team of Class 12 AI students as part of a school
 - **Tanisha Chaudhary (Video Creator & Project Presenter)**  
   → Explained the project idea, working, and real-life impact in video form clearly and confidently
 
-- **Aahana Gautam (Testing & Output Visualizer)**  
+- **Aahna Gautam (Testing & Output Visualizer)**  
   → Output formatting, graph development, user-friendly CSV display
 
 - **Saksham Piyush Patil (Documentation & Presentation)**  
